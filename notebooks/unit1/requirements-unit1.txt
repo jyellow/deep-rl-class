@@ -3,4 +3,4 @@ gymnasium
 shimmy
 swig
 huggingface_sb3
-gymnasium[box2d]
+gymnasium[box2d]==2.3.5
