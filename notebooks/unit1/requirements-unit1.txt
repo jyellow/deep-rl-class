@@ -3,3 +3,4 @@ gymnasium
 shimmy
 swig
 huggingface_sb3
+gymnasium[box2d]
