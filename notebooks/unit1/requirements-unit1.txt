@@ -3,4 +3,5 @@ gymnasium
 shimmy
 swig
 huggingface_sb3
-gymnasium[box2d]
+# Manually installing gymnasium[box2d] in Jupyter environment
+#gymnasium[box2d]
